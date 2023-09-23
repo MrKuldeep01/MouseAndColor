@@ -22,7 +22,7 @@ h2{
     border-radius:5px;
     overflow:hidden;
     position:absolute;
-    top:50%;
-    left:60%;
+    top:60%;
+    left:50%;
     transform: translate(-50%,-50%);
 }
