@@ -1,5 +1,6 @@
 .container{
     width: 100%;
+    padding: 20px;
     height: 100vh;
     background: linear-gradient(rgb(216, 215, 215),rgb(233, 230, 230),transparent);
 }
@@ -15,8 +16,8 @@ h2{
     border-radius: 5px;
 }
 .box{
-    width: 400px;
-    height: 200px;
+    width: 250px;
+    height: 100px;
     border:1px solid rgb(99, 99, 100);
     border-radius:5px;
     overflow:hidden;
