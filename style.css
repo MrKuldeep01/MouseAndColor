@@ -1,0 +1,27 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgb(216, 215, 215),rgb(233, 230, 230),transparent);
+}
+h2{
+    text-align: center;
+    position:absolute;
+    top:15%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    font-size: 2rem;
+    background: #bba8a8;
+    padding: 20px;
+    border-radius: 5px;
+}
+.box{
+    width: 400px;
+    height: 200px;
+    border:1px solid rgb(99, 99, 100);
+    border-radius:5px;
+    overflow:hidden;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
